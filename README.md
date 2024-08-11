@@ -5,8 +5,8 @@
 -This is my playground where I tinker with tech and share my journey.
 
 ### 🌟 Quick Links
-- [LinkedIn](www.linkedin.com/in/ayesha-mughal-24a252322)
-- [Email](ayeshamughal2162@gmail.com).
+- [LinkedIn] www.linkedin.com/in/ayesha-mughal-24a252322
+- [Email] ayeshamughal2162@gmail.com
   
 ## 💻 Tech Stack
 
