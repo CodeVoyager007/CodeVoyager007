@@ -5,7 +5,7 @@
 -This is my playground where I tinker with tech and share my journey.
 
 ### 🌟 Quick Links
-- [LinkedIn](www.linkedin.com/in/ayesha-mughal-60961a2ba)
+- [LinkedIn](www.linkedin.com/in/ayesha-mughal-24a252322)
   
 ## 💻 Tech Stack
 
