@@ -6,6 +6,7 @@
 
 ### 🌟 Quick Links
 - [LinkedIn](www.linkedin.com/in/ayesha-mughal-24a252322)
+- [Email](ayeshamughal2162@gmail.com).
   
 ## 💻 Tech Stack
 
