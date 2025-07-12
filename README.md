@@ -1,24 +1,62 @@
-# 💫 About Me:
-👋 Welcome to Ayesha Mughal's GitHub!<br>-Hey there! I'm Ayesha Mughal, also known as CodeVoyager007 on GitHub. -I'm a student at GIAIC AI Web3.0 and Metaverse and an online student at Harvard University's AI course. -This is my playground where I tinker with tech and share my journey.<br><br>🌟 Quick Links<br>[Email] ayeshamughal2162@gmail.com<br>💻 Tech Stack<br>🎯 Learning Focus<br>My current focus revolves around:<br><br>Deepening my understanding of AI technologies and their applications in various domains.<br>Exploring the intersection of AI, Web3.0, and the Metaverse to stay ahead in the rapidly evolving digital landscape.<br>Mastering skills in <AI , Web 3.0 & Metaverse>.<br>📬 Get in Touch<br><br>Email: ayeshamughal2162009@gmail.com<br><br>❤️ Support Me<br>Star my repos ⭐<br>Share with friends 🌐<br>Thanks for visiting! 😊
+<div align="center">
 
+  <img src="https://i.pinimg.com/736x/52/ca/49/52ca49ba08c6c14ed904a5d577a98a19.jpg" width="120" style="border-radius: 50%; margin-top: 20px; border: 2px solid #00ffc8;" />
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Ayesha_Techadventures) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Ayesha Mughal) 
+  <h1 style="color:#00ffc8; font-family: 'Fira Code', monospace; font-size: 36px;">Ayesha Mughal</h1>
+  <p style="color: #cfcfcf; font-size: 14px;">CodeVoyager007 • Dev in Progress • AI Dreamer 🌌</p>
 
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=CodeVoyager007&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=CodeVoyager007&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeVoyager007&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<hr style="border: 0; border-top: 1px solid #00ffc8;"/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=CodeVoyager007&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 👩‍💻 About Me
 
----
-[![](https://visitcount.itsvg.in/api?id=CodeVoyager007&icon=7&color=0)](https://visitcount.itsvg.in)
+- 💼 CS Student @ GIAIC | Harvard AI Online Learner  
+- 🚀 Passionate about AI, Web3 & the Metaverse  
+- ✍️ Blogger on [Medium](https://medium.com/@ayeshamughal21) & [Hashnode](https://hashnode.com/@mughalsyntax)  
+- ☕ Tea Lover & Code Obsessor  
+- 🧠 Exploring the unknowns of tech with a curious mind
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+> _"Where Logic Meets Elegance."_
+
+<hr style="border: 0; border-top: 1px solid #00ffc8;"/>
+
+## 🚀 Top Projects
+
+| Project | Description |
+|--------|-------------|
+| [Quarter 4 Learning](https://github.com/CodeVoyager007/Quarter4-learning) | Advanced AI & SDK-based explorations |
+| [Quarter 3 Assignments](https://github.com/CodeVoyager007/Quarter3-Assignments) | Structured GIAIC coursework solutions |
+| [Python Projects](https://github.com/CodeVoyager007/PYTHON_PROJECTS) | Small automation projects & learning experiments |
+| [EID Greetings](https://github.com/CodeVoyager007/EID_Greetings) | Beautiful Eid card generator ✨ |
+| [EID Special](https://github.com/CodeVoyager007/EID_SPECIAL) | Tailwind Eid animation showcase 💌 |
+
+<hr style="border: 0; border-top: 1px solid #00ffc8;"/>
+
+## 🧠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,typescript,nextjs,tailwind,js,nodejs,html,css,jquery,npm,vercel,figma,react,git,github,vscode,ps" />
+</p>
+
+<hr style="border: 0; border-top: 1px solid #00ffc8;"/>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeVoyager007&theme=merko&show_icons=true&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeVoyager007&theme=merko&hide_border=true" width="48%"/>
+</p>
+
+<hr style="border: 0; border-top: 1px solid #00ffc8;"/>
+
+## 🌐 Find Me Online
+
+<p align="center">
+  <a href="https://medium.com/@ayeshamughal21"><img src="https://img.shields.io/badge/Medium-111111?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="https://hashnode.com/@mughalsyntax"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ayeshaintech/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/Ayesha_Mughal21"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+</p>
+
+<!-- Professional dark-themed profile crafted with 💻 by @mughalsyntax -->
