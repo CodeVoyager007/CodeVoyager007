@@ -1,17 +1,4 @@
-<div align="center">
-<svg width="800" height="160" viewBox="0 0 680 160" xmlns="http://www.w3.org/2000/svg">
-<rect width="680" height="160" fill="#000000"/>
-<line x1="0" y1="1" x2="680" y2="1" stroke="#1a1a1a" stroke-width="1"/>
-<line x1="0" y1="159" x2="680" y2="159" stroke="#1a1a1a" stroke-width="1"/>
-<rect x="0" y="0" width="3" height="160" fill="#333333"/>
-<rect x="677" y="0" width="3" height="160" fill="#333333"/>
-<text x="40" y="38" font-family="Courier New" font-size="11" fill="#333333" letter-spacing="4">PORTFOLIO · GITHUB · KARACHI, PAKISTAN</text>
-<text x="40" y="95" font-family="Courier New" font-size="42" font-weight="bold" fill="#ffffff" letter-spacing="6">AYESHA MUGHAL</text>
-<line x1="40" y1="108" x2="460" y2="108" stroke="#222222" stroke-width="0.5"/>
-<text x="40" y="128" font-family="Courier New" font-size="12" fill="#555555" letter-spacing="3">AI DEVELOPER · TECHNICAL WRITER · FULL-STACK ENGINEER</text>
-<text x="630" y="148" font-family="Courier New" font-size="10" fill="#222222" letter-spacing="1" text-anchor="end">2026</text>
-</svg>
-</div>
+![header](./ayesha_header_svg.svg)
 
 <div align="center">
 
@@ -164,12 +151,7 @@ I'm **Ayesha Mughal** — 16-year-old AI developer and technical writer building
 ---
 
 <div align="center">
-<svg width="800" height="80" viewBox="0 0 680 80" xmlns="http://www.w3.org/2000/svg">
-<rect width="680" height="80" fill="#000000"/>
-<rect x="0" y="0" width="680" height="1" fill="#1a1a1a"/>
-<rect x="0" y="0" width="3" height="80" fill="#333333"/>
-<rect x="677" y="0" width="3" height="80" fill="#333333"/>
-<rect x="40" y="18" width="8" height="8" fill="#222222"/><rect x="52" y="18" width="4" height="8" fill="#1a1a1a"/><rect x="60" y="18" width="12" height="8" fill="#2a2a2a"/><rect x="76" y="18" width="6" height="8" fill="#111111"/><rect x="86" y="18" width="16" height="8" fill="#222222"/><rect x="106" y="18" width="4" height="8" fill="#1a1a1a"/><rect x="114" y="18" width="10" height="8" fill="#2a2a2a"/><rect x="128" y="18" width="8" height="8" fill="#111111"/><rect x="140" y="18" width="20" height="8" fill="#222222"/><rect x="164" y="18" width="4" height="8" fill="#1a1a1a"/><rect x="172" y="18" width="14" height="8" fill="#2a2a2a"/><rect x="190" y="18" width="6" height="8" fill="#111111"/><rect x="200" y="18" width="10" height="8" fill="#222222"/><rect x="214" y="18" width="18" height="8" fill="#1a1a1a"/><rect x="236" y="18" width="8" height="8" fill="#2a2a2a"/><rect x="248" y="18" width="12" height="8" fill="#111111"/><rect x="264" y="18" width="6" height="8" fill="#222222"/><rect x="274" y="18" width="16" height="8" fill="#1a1a1a"/><rect x="294" y="18" width="4" height="8" fill="#2a2a2a"/><rect x="302" y="18" width="20" height="8" fill="#111111"/><rect x="326" y="18" width="8" height="8" fill="#222222"/><rect x="338" y="18" width="10" height="8" fill="#1a1a1a"/><rect x="352" y="18" width="14" height="8" fill="#2a2a2a"/><rect x="370" y="18" width="6" height="8" fill="#111111"/><rect x="380" y="18" width="18" height="8" fill="#222222"/><rect x="402" y="18" width="4" height="8" fill="#1a1a1a"/><rect x="410" y="18" width="12" height="8" fill="#2a2a2a"/><rect x="426" y="18" width="8" height="8" fill="#111111"/><rect x="438" y="18" width="16" height="8" fill="#222222"/><rect x="458" y="18" width="6" height="8" fill="#1a1a1a"/><rect x="468" y="18" width="20" height="8" fill="#2a2a2a"/><rect x="492" y="18" width="4" height="8" fill="#111111"/><rect x="500" y="18" width="10" height="8" fill="#222222"/><rect x="514" y="18" width="14" height="8" fill="#1a1a1a"/><rect x="532" y="18" width="8" height="8" fill="#2a2a2a"/><rect x="544" y="18" width="18" height="8" fill="#111111"/><rect x="566" y="18" width="6" height="8" fill="#222222"/><rect x="576" y="18" width="12" height="8" fill="#1a1a1a"/><rect x="592" y="18" width="16" height="8" fill="#2a2a2a"/><rect x="612" y="18" width="4" height="8" fill="#111111"/><rect x="620" y="18" width="20" height="8" fill="#222222"/>
-<text x="340" y="60" font-family="Courier New" font-size="11" fill="#444444" letter-spacing="2" text-anchor="middle">© 2026 AYESHA MUGHAL · WHERE LOGIC MEETS ELEGANCE</text>
-</svg>
+ 
+  ![footer](./ayesha_footer_svg.svg)
+
 </div>
