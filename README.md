@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&lines=Claude+Code+%7C+Agentic+AI+%7C+Full-Stack+Engineer;225K%2B+Medium+Views+%7C+727+Followers;Excellence+Team+%26+Rising+Star+%40+GIAIC;Top+5+%2F+317+%E2%80%94+Ramadan+Prompting+Nights+2026;Building+in+Public+from+Pakistan+%F0%9F%87%B5%F0%9F%87%B0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&lines=Claude+Code+%7C+Agentic+AI+%7C+Full-Stack+Engineer;1M%2B+Medium+Views+%7C+1K%2B+Followers;Excellence+Team+%26+Rising+Star+%40+GIAIC;Top+5+%2F+317+%E2%80%94+Ramadan+Prompting+Nights+2026;Building+in+Public+from+Pakistan+%F0%9F%87%B5%F0%9F%87%B0)](https://git.io/typing-svg)
 
 <br/>
 
@@ -23,15 +23,17 @@
 I'm **Ayesha Mughal** — 16-year-old AI developer and technical writer building in public from Karachi, Pakistan.
 
 - 🤖 Specializing in **Claude Code, Agentic AI & Full-Stack Engineering**
-- ✍️ Technical writer at **AI in Plain English** — 225K+ views, 727 followers
+- ✍️ Technical writer at **AI in Plain English** — 1M+ views, 1K+ followers
 - 🏆 **Top 5** out of 317 — Ramadan Prompting Nights Competition 2026
 - 🎓 **Excellence Team & Rising Star** @ GIAIC (Governor's Initiative for AI & Computing)
-- 💼 **27+ certifications** — Harvard CS50x (Puzzle Day 9/9), CS50 AI with Python
+- 🚀 **AI Seekho 2026** — National Hackathon, PKR 2.5M prize pool
+- 🎓 **Stanford Code in Place 2026** — Experienced Student Track
+- 💼 **27+ certifications** — Harvard CS50x (9/9), CS50 AI with Python
 - 🔭 Currently: **Agentic Engineering Series** — Cursor + Claude Code + v0 + n8n
 - 💡 First freelance client: **DeFi QC Multi-Agent System** — Python + Claude API
 - 📬 Reach me: ayeshamughal2162@gmail.com
 
-> *"Where Logic Meets Elegance."*
+> *"I Engineer It. Then I Explain It."*
 
 <br clear="right"/>
 
@@ -39,7 +41,7 @@ I'm **Ayesha Mughal** — 16-year-old AI developer and technical writer building
 
 ### `> status --live`
 
-![Building](https://img.shields.io/badge/BUILDING-Agentic%20Engineering%20Series%20%E2%80%94%20Post%207-222222?style=flat-square&labelColor=111111)
+![Building](https://img.shields.io/badge/BUILDING-Agentic%20Engineering%20Series-222222?style=flat-square&labelColor=111111)
 &nbsp;
 ![Open To](https://img.shields.io/badge/OPEN_TO-Freelance%20%7C%20Writing%20%7C%20Collabs-222222?style=flat-square&labelColor=111111)
 &nbsp;
@@ -51,7 +53,7 @@ I'm **Ayesha Mughal** — 16-year-old AI developer and technical writer building
 
 <div align="center">
 
-| 📝 **225K+** | 👥 **727** | 🔗 **994** | 🏅 **27+** | 🥇 **TOP 5** | 💻 **10** |
+| 📝 **1M+** | 👥 **1K+** | 🔗 **1,150** | 🏅 **27+** | 🥇 **TOP 5** | 💻 **10** |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | Medium Views | Medium Followers | LinkedIn Connections | Certifications | RPN 2026 / 317 | Hackathons |
 
@@ -109,6 +111,7 @@ I'm **Ayesha Mughal** — 16-year-old AI developer and technical writer building
 ![Docker](https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=ffffff)
 ![Vercel](https://img.shields.io/badge/Vercel-111111?style=flat-square&logo=vercel&logoColor=ffffff)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-111111?style=flat-square&logo=googlecloud&logoColor=ffffff)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-111111?style=flat-square&logo=oracle&logoColor=ffffff)
 ![Linux](https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=ffffff)
 ![Cursor](https://img.shields.io/badge/Cursor-111111?style=flat-square&logo=cursor&logoColor=ffffff)
@@ -123,16 +126,17 @@ I'm **Ayesha Mughal** — 16-year-old AI developer and technical writer building
 | # | Project | Stack | Live |
 |:---:|:--------|:------|:----:|
 | 01 | **ServeEase** — AI Customer Success Employee; 24/7 support via Gmail, WhatsApp & web | OpenAI Agents SDK · FastAPI · Kafka · PostgreSQL | [↗](https://serveease-next.vercel.app/) |
-| 02 | **Momentum AI** — AI-powered task manager with agent automation | Next.js · AI Agents · LangChain · Tailwind | [↗](https://momentum-ai-todo-app.vercel.app/) |
-| 03 | **StudyForge AI** — Personalized flashcards & summaries from raw topics | React · TypeScript · Supabase | [↗](https://study-forge-ai.vercel.app/) |
-| 04 | **PromptVault** — Marketplace for high-quality AI prompts | Next.js · Supabase · Framer Motion | [↗](https://prompt-vaulet-get-200-plus-prompts.vercel.app/) |
-| 05 | **Audionic Shop** — E-commerce storefront with high-performance interactions | React · TypeScript · Vite · shadcn/ui | [↗](https://audionic-soundscape-shop.vercel.app/) |
-| 06 | **SM Marketing** — Real estate platform with interactive lead management | Next.js · React · Tailwind CSS | [↗](https://sm-markeing-real-estate.vercel.app/) |
-| 07 | **Humanoid Robotics** — Educational platform for physical AI & robotics | Next.js · React · Tailwind CSS | [↗](https://physical-ai-humanoid-robotics-cours-six.vercel.app/) |
-| 08 | **Course Finder** — Search engine for programming courses with advanced filtering | Next.js · API Integration · Tailwind | [↗](https://courses-search-engine-by-ayesha-mughal.vercel.app/) |
-| 09 | **Profile Viewer** — GitHub analytics & data visualization tool | React · GitHub API · Chart.js | [↗](https://github-profile-search-app-sage.vercel.app/) |
-| 10 | **Sugar Bliss** — Bakery e-commerce with product galleries & order forms | React · Tailwind CSS · Vercel | [↗](https://bakery-website-by-ayesha-mughal.vercel.app/) |
-| 11 | **Luxe Interiors** — Premium interior design portfolio | React · Framer Motion · Styled Components | [↗](https://interior-design-website-indol-ten.vercel.app/) |
+| 02 | **Tareekh-ky-Jhonky** — Pakistani heritage AI scanner with audio walks & inscription translator | Gemini 1.5 Pro · Google ADK · RAG · Next.js · Google Cloud Run | [↗](https://ayesha-mughals-portfolio.vercel.app/) |
+| 03 | **Momentum AI** — AI-powered task manager with agent automation | Next.js · AI Agents · LangChain · Tailwind | [↗](https://momentum-ai-todo-app.vercel.app/) |
+| 04 | **StudyForge AI** — Personalized flashcards & summaries from raw topics | React · TypeScript · Supabase | [↗](https://study-forge-ai.vercel.app/) |
+| 05 | **PromptVault** — Marketplace for high-quality AI prompts | Next.js · Supabase · Framer Motion | [↗](https://prompt-vaulet-get-200-plus-prompts.vercel.app/) |
+| 06 | **Audionic Shop** — E-commerce storefront with high-performance interactions | React · TypeScript · Vite · shadcn/ui | [↗](https://audionic-soundscape-shop.vercel.app/) |
+| 07 | **SM Marketing** — Real estate platform with interactive lead management | Next.js · React · Tailwind CSS | [↗](https://sm-markeing-real-estate.vercel.app/) |
+| 08 | **Humanoid Robotics** — Educational platform for physical AI & robotics | Next.js · React · Tailwind CSS | [↗](https://physical-ai-humanoid-robotics-cours-six.vercel.app/) |
+| 09 | **Course Finder** — Search engine for programming courses with advanced filtering | Next.js · API Integration · Tailwind | [↗](https://courses-search-engine-by-ayesha-mughal.vercel.app/) |
+| 10 | **Profile Viewer** — GitHub analytics & data visualization tool | React · GitHub API · Chart.js | [↗](https://github-profile-search-app-sage.vercel.app/) |
+| 11 | **Sugar Bliss** — Bakery e-commerce with product galleries & order forms | React · Tailwind CSS · Vercel | [↗](https://bakery-website-by-ayesha-mughal.vercel.app/) |
+| 12 | **Luxe Interiors** — Premium interior design portfolio | React · Framer Motion · Styled Components | [↗](https://interior-design-website-indol-ten.vercel.app/) |
 
 ---
 
@@ -144,14 +148,14 @@ I'm **Ayesha Mughal** — 16-year-old AI developer and technical writer building
 &nbsp;
 [![Agentic Engineering](https://img.shields.io/badge/Agentic_Engineering_%E2%80%94_Cursor_%2B_Claude_Code_%2B_v0_%2B_n8n-111111?style=for-the-badge&logo=medium&logoColor=ffffff)](https://medium.com/@ayeshamughal21)
 
-**Published in [AI in Plain English](https://medium.com/ai-in-plain-english) · 225K+ views · 47K reads · 727 followers**
+**Published in [AI in Plain English](https://medium.com/ai-in-plain-english) · 1M+ views · 1K+ followers**
 
 </div>
 
 ---
 
 <div align="center">
- 
+
   ![footer](./ayesha_footer_svg.svg)
 
 </div>
