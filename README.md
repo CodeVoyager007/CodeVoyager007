@@ -20,7 +20,7 @@
 
 ### `> whoami`
 
-I'm **Ayesha Mughal** — 16-year-old AI developer and technical writer building in public from Karachi, Pakistan.
+I'm **Ayesha Mughal** — AI developer and technical writer building in public from Karachi, Pakistan.
 
 - 🤖 Specializing in **Claude Code, Agentic AI & Full-Stack Engineering**
 - ✍️ Technical writer at **AI in Plain English** — 1M+ views, 1K+ followers
